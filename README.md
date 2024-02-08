@@ -1,0 +1,2 @@
+# Amazonclone
+using html/css
